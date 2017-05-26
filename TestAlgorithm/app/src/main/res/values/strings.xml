@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAlgorithm</string>
+
+    <string-array name="names">
+        <item>Please select a value</item>
+        <item>Scanner</item>
+        <item>Canny Photo</item>
+        <item>Canny Video</item>
+    </string-array>
+</resources>
